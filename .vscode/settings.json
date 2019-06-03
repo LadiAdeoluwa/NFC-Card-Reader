@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "nfc.h": "c",
+        "stdint.h": "c",
+        "freefare.h": "c",
+        "nfc-types.h": "c",
+        "nfc-utils.h": "c"
+    }
+}
